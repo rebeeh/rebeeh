@@ -5,7 +5,7 @@
     </section>
 
     <section align="center">
-        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youesky&show_icons=true&locale=en&layout=compact" width="40vw" alt="youesky" /></p>
-        <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=youesky&" width="40vw" alt="youesky" /></p>
+        <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=youesky&show_icons=true&locale=en&layout=compact" alt="youesky" /></p>
+        <p><img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=youesky&" alt="youesky" /></p>
     </section>
 </body>
